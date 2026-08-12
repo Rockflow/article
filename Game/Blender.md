@@ -13,7 +13,6 @@ toc: true
 - [Portable版本](https://portableapps.com/apps/graphics_pictures/blender_portable)
 - [VeryCG教程 - 国外CG教程_原创CG翻译:](https://www.verycg.com/)
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS)
-- [newnewnew](https://www.baidu.com)
 
 ## 设置
 
